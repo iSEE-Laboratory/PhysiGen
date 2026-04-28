@@ -4,8 +4,8 @@
 
 **Accepted to ICASSP 2026**
 
-[Nan Lei](mailto:lein7@mail2.sysu.edu.cn), [Yuan-Ming Li], [Ling-An Zeng], [Liang Xu],
-[Zhi-Wei Xia], [Hui-Wen Huang], [Fa-Ting Hong]†, [Wei-Shi Zheng]
+Nan Lei(mailto:lein7@mail2.sysu.edu.cn), Yuan-Ming Li, Ling-An Zeng, Liang Xu,
+Zhi-Wei Xia, Hui-Wen Huang, Fa-Ting Hong†, Wei-Shi Zheng
 
 <sup>Sun Yat-sen University &nbsp;|&nbsp; The Hong Kong University of Science and Technology &nbsp;|&nbsp; Shanghai Jiao Tong University &nbsp;|&nbsp; Guilin University of Electronic Technology</sup>
 
@@ -43,7 +43,7 @@
 ## 🔍 Overview
 
 <div align="center">
-<img src="assets/teaser.png" width="90%">
+<img src="fig/model.pdf" width="90%">
 </div>
 
 > **PhysiGen** is a plug-and-play, computationally efficient optimization strategy that explicitly integrates collision-aware physical constraints into human-human interaction generation.
