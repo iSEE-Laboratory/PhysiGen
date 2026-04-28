@@ -4,7 +4,8 @@
 
 **Accepted to ICASSP 2026**
 
-Nan Lei(mailto:lein7@mail2.sysu.edu.cn), Yuan-Ming Li, Ling-An Zeng, Liang Xu,
+[Nan Lei](mailto:lein7@mail2.sysu.edu.cn), Yuan-Ming Li, Ling-An Zeng, Liang Xu,
+
 Zhi-Wei Xia, Hui-Wen Huang, Fa-Ting Hong†, Wei-Shi Zheng
 
 <sup>Sun Yat-sen University &nbsp;|&nbsp; The Hong Kong University of Science and Technology &nbsp;|&nbsp; Shanghai Jiao Tong University &nbsp;|&nbsp; Guilin University of Electronic Technology</sup>
