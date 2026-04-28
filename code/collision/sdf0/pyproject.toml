@@ -1,0 +1,4 @@
+
+#[build-system]
+requires = ["setuptools>=61.0", "wheel", "torch"] # 添加了特定的 torch 版本
+build-backend = "setuptools.build_meta"
