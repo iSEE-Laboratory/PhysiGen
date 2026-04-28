@@ -70,7 +70,7 @@ PhysiGen addresses this by:
 Clone the repository and set up the environment:
 
 ```bash
-git clone https://github.com/your-repo/PhysiGen.git
+git clone https://github.com/iSEE-Laboratory/PhysiGen.git
 cd PhysiGen
 ```
 
