@@ -4,7 +4,7 @@
 
 **Accepted to ICASSP 2026**
 
-[Nan Lei](mailto:lein7@mail2.sysu.edu.cn), Yuan-Ming Li, Ling-An Zeng, Liang Xu,
+Nan Lei, Yuan-Ming Li, Ling-An Zeng, Liang Xu,
 
 Zhi-Wei Xia, Hui-Wen Huang, Fa-Ting Hong†, Wei-Shi Zheng
 
@@ -32,14 +32,7 @@ Zhi-Wei Xia, Hui-Wen Huang, Fa-Ting Hong†, Wei-Shi Zheng
 
 ---
 
-## 📑 Table of Contents
 
-- [🔍 Overview](#overview)
-- [🛠️ Installation](#installation)
-- [📊 Results](#results)
-- [📄 Citation](#citation)
-- [📜 License](#license)
----
 
 ## 🔍 Overview
 
@@ -209,11 +202,12 @@ PhysiGen introduces minimal overhead compared to SDF-based losses:
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{lei2023physigen,
-  title={PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation},
-  author={Lei, Nan and Li, Yuan-Ming and Zeng, Ling-An and Xu, Liang and Xia, Zhi-Wei and Huang, Hui-Wen and Hong, Fa-Ting and Zheng, Wei-Shi},
-  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2026}
+@article{Lei2026PhysigenIC,
+  title={Physigen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation},
+  author={Nan Lei and Yuan-Ming Li and Ling-an Zeng and Liangliang Xu and Zhi-Wei Xia and Huihui Huang and Fa-Ting Hong and Wei-Shi Zheng},
+  journal={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2026},
+  url={https://api.semanticscholar.org/CorpusID:287685790}
 }
 ```
 
@@ -225,12 +219,6 @@ This project is released under the [Apache License 2.0](LICENSE).
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-repo/PhysiGen&type=Date)](https://star-history.com/#your-repo/PhysiGen&Date)
-
----
-
 ## 🙏 Acknowledgement
 
 We thank the following open-source projects for their contributions to the community:
@@ -238,8 +226,7 @@ We thank the following open-source projects for their contributions to the commu
 - [InterGen](https://github.com/tr3e/InterGen) — two-person interaction generation framework and InterHuman dataset
 - [Inter-X](https://github.com/liangxuy/Inter-X) — large-scale human interaction dataset
 - [in2IN](https://github.com/pabloruizponce/in2IN) — individual-aware interaction generation
-- [TIMotion](https://github.com/your-link) — temporal and interactive motion generation framework
-- [MDM](https://github.com/GuyTevet/motion-diffusion-model) — human motion diffusion model
+- [TIMotion](https://github.com/AIGC-Explorer/TIMotion) — temporal and interactive motion generation framework
 
 ---
 
@@ -248,14 +235,3 @@ We thank the following open-source projects for their contributions to the commu
 </div>
 ```
 
----
-
-几点说明：
-
-1. **需要你补充的内容**：arXiv 链接、GitHub 仓库地址、项目主页链接、作者个人主页链接，以及 assets 文件夹中的图片（teaser、定量结果、定性结果图）。
-
-2. **badge 链接**：`arXiv`、`Project Page` 的 URL 需替换为实际地址。
-
-3. **Citation**：venue 已按 ICRA 2026 填写，bibtex key 和具体字段你可以按需调整。
-
-4. **Star History**：将 `your-repo/PhysiGen` 替换为实际的 GitHub 仓库路径即可生效。
