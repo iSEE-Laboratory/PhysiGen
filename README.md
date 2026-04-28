@@ -18,7 +18,7 @@ Zhi-Wei Xia, Hui-Wen Huang, Fa-Ting Hong†, Wei-Shi Zheng
 
 ## 📢 News
 
-- **[2025.XX]** 🎉 PhysiGen is accepted to **ICASSP 2026**!
+- **[2026.01.18]** 🎉 PhysiGen is accepted to **ICASSP 2026**!
 - 🚧 Code and models coming soon...
 
 ---
@@ -44,7 +44,7 @@ Zhi-Wei Xia, Hui-Wen Huang, Fa-Ting Hong†, Wei-Shi Zheng
 ## 🔍 Overview
 
 <div align="center">
-<img src="fig/model.pdf" width="90%">
+<img src="fig/model.png" width="90%">
 </div>
 
 > **PhysiGen** is a plug-and-play, computationally efficient optimization strategy that explicitly integrates collision-aware physical constraints into human-human interaction generation.
