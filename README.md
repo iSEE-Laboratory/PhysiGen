@@ -1,22 +1,21 @@
+<img width="5047" height="105" alt="image" src="https://github.com/user-attachments/assets/cf3ae760-e30d-49ef-96f0-c7e636431b2f" /><div align="center">
+
+
 <div align="center">
-
-# PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation
-
-**Accepted to ICASSP 2026**
-
-Nan Lei, Yuan-Ming Li, Ling-An Zeng, Liang Xu,
-
-Zhi-Wei Xia, Hui-Wen Huang, Fa-Ting Hong†, Wei-Shi Zheng
-
-<sup>Sun Yat-sen University &nbsp;|&nbsp; The Hong Kong University of Science and Technology &nbsp;|&nbsp; Shanghai Jiao Tong University &nbsp;|&nbsp; Guilin University of Electronic Technology</sup>
-
-†Corresponding author
+  <img src="fig/title.png" width="100%">
+</div>
 
 </div>
 
 ---
 
 ## 📢 News
+- **[2026.01.18]** 🎉 IRG-MotionLLM: our new work with Tongyi!
+- Can we seamlessly interleave motion generation, assessment, and refinement in a unified model to progressively improve motion generation? Can learning motion assessment & refinement bring cross-task, cross-model synergies?  Our answer is YES! We propose the first model supporting natively text-motion interleaved reasoning for text-to-motion generation. We demonstrate its advanced performance and emerging properties.
+- https://github.com/HumanMLLM/IRG-MotionLLM
+- https://arxiv.org/abs/2512.10730
+
+<img width="4663" height="105" alt="image" src="https://github.com/user-attachments/assets/b5087f9a-bb42-4413-8ed3-19ef264418e0" />
 
 - **[2026.01.18]** 🎉 PhysiGen is accepted to **ICASSP 2026**!
 - 🚧 Code and models coming soon...
